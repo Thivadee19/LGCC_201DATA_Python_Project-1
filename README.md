@@ -1,1 +1,1 @@
-# 201_Python Project 1
+School information
